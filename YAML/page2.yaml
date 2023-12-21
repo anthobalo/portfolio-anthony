@@ -1,0 +1,29 @@
+Compétence:
+  - categorie: Développement
+    competences:
+      - nom: HTML
+        niveau: ★★★☆☆
+      - nom: CSS
+        niveau: ★★☆☆☆
+      - nom: PHP
+        niveau: ★★☆☆☆
+      - nom: YAML
+        niveau: ★★☆☆☆
+      - nom: Python
+        niveau: ★★☆☆☆
+      - nom: Réseau
+        niveau: ★★★☆☆
+  - categorie: Bureautique
+    competences:
+      - nom: Word
+        niveau: ★★★★☆
+      - nom: Excel
+        niveau: ★★★★☆
+      - nom: PowerPoint
+        niveau: ★★★☆☆
+  - categorie: Langue
+    competences:
+      - nom: Anglais
+        niveau: ★★★☆☆
+      - nom: Espagnol
+        niveau: ★★☆☆☆ 
