@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "Veuillez cocher le captcha correctement.";
     } else {
         // Récupération des données du formulaire
-        $destinataire = "destinataire@example.com";
+        $destinataire = "anthony.balogh@sts-sio-caen.info";
         $sujet = $_POST['sujet'];
         $message = $_POST['message'];
         $expediteur = $_POST['email'];
